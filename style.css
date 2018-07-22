@@ -1,0 +1,115 @@
+body{
+ background-image :url("https://wallpapercave.com/wp/AL2nkYz.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.heading
+{
+   box-shadow: 5px 5px 5px black;
+  color : red;
+  margin : 356px;
+  display : inline;
+  font-size: 70px;
+  font-family: "Times New Roman";
+}
+
+#spellie{
+  margin-left : 300px;
+  display:inline;
+}
+.quotes{
+ 
+}
+.wand{
+  display:inline;
+  color: red;
+   margin-left:56px;
+  font-size: 35px;
+  font-style:italic;
+}
+.spell{
+  margin-left: 300px;
+  display: block;
+}
+button{  
+  font-size: 25px;
+  background : black;
+  width:150px;
+  transition: all 0.5s;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+ 
+  width:250px;
+  height:70px;
+  background:red;
+}
+.second{
+  margin-left: 150px;
+}
+#spell{
+  font-size: 1.9em;
+  padding: 0.1em;
+  margin-right: 1em;
+  margin-left: 1em;
+  font-family: "Curlz MT";
+  color:red;
+}
+.footer{
+  color:red;
+  font-style:bold;
+  font-family:cursive;
+  background-color:black;
+  width: 25%;
+  margin-left:auto;
+  margin-right:auto;
+  border: 2px solid white;
+  height: 40px;
+  margin-top:750px;
+  padding-bottom:auto;
+  font-size: 30px;
+  text-decoration:overline;
+}
+.tweet{
+ font-family: "monospace";
+  font-size: 25px;
+  border-radius: 5px;
+}
+.fa-magic {
+  color: #CFB53B;
+}
+img
+{
+  box-shadow: -5px 5px 5px #8888;
+  width :50px;
+  border : 1px solid white;
+  
+}
+a:hover{
+  font-size: 30px;
+  color: yellow;
+  bsckground-color:red;
+}
+.spellss
+{
+  font-size: 40px;
+  margin-left: 350px;
+  color: yellow;
+ 
+  width : 500px;
+  border-radius: 20px;
+}
+.author
+{
+  margin-left: 450px;
+  color: yellow;
+  font-size: 20px;
+  font-style:italic;
+  font-family: "Tahoma";
+   border-radius: 20px;
+}
+
